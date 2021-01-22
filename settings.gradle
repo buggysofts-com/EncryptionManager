@@ -1,0 +1,3 @@
+include ':EncryptionManager'
+include ':app'
+rootProject.name = "EncryptionManagerExample"
