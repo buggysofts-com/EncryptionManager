@@ -29,12 +29,6 @@ import javax.crypto.spec.SecretKeySpec;
 public class EncryptionManager {
 
     public static int DATA_TYPE_ALL = 0;
-    public static int DATA_TYPE_EXT_DATA_BACKUP_CONTENT = 1;
-    public static int DATA_TYPE_FULL_DATA_BACKUP_CONTENT = 2;
-    public static int DATA_TYPE_CONTACTS_BACKUP = 3;
-    public static int DATA_TYPE_MESSAGES_BACKUP = 4;
-    public static int DATA_TYPE_CALL_LOG_BACKUP = 5;
-    public static int DATA_TYPE_SETTINGS_BACKUP = 6;
 
     public static class Encryptor {
 
